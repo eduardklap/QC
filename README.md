@@ -53,7 +53,7 @@ Citation
 --------
 **When using Qoala-T please include the following citation:**
 
-Klapwijk, E.T., van de Kamp, F., Meulen, M., Peters, S. and Wierenga, L.M. (2019). Qoala-T: A supervised-learning tool for quality control of FreeSurfer segmented MRI data. *NeuroImage* https://doi.org/10.1016/j.neuroimage.2019.01.014
+Klapwijk, E.T., van de Kamp, F., Meulen, M., Peters, S. and Wierenga, L.M. (2019). Qoala-T: A supervised-learning tool for quality control of FreeSurfer segmented MRI data. *NeuroImage, 189,* 116-129. https://doi.org/10.1016/j.neuroimage.2019.01.014
 
 
 Authors
